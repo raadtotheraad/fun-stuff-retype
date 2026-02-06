@@ -1,0 +1,24 @@
+input: .
+output: .retype
+
+url: raadtotheraad.com/fun-stuff-retype # Use your website address here
+
+start:
+  # Uncomment the next line to try Retype Pro features
+  # pro: true
+
+branding:
+  title: Fun Stuff
+  label: Retype
+
+links:
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
+
+hub:
+  link: https://raadtotheraad.com/fun-stuff
+
+footer:
+  
+
+favicon: /img/cat.jpg
