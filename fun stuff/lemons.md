@@ -1,5 +1,5 @@
 ---
-label: Welcome
+label: DETAILED INFOS FROM LEMONS
 order: 100
 ---
 
